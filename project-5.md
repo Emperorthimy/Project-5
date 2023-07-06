@@ -13,9 +13,9 @@
 `sudo apt update`
 `sudo apt-get install libmysqlclient21`
 `sudo apt install mysql-client -y`
-![MySQL-Server-Installed](./Images/mysql-repo.png)
-![MySQL-Server-Installed](./Images/mysql-client.png)
-![MySQL-Server-Installed](./Images/mySql%20(2).png)
+![MySQL-Installed](./Images/mysql-repo.png)
+![MySQL-client-Installed](./Images/mysql-client.png)
+![MySQL-client-Installed](./Images/mySql%20(2).png)
 
 ### Binding IP Address
 
